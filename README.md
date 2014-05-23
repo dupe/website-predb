@@ -10,9 +10,13 @@ DIRECTORIES
 
 www/
 
+DATABASE SCHEMA
+
 www/includes 
 
 www/static
+
+www/
 
 scripts functionality
 
